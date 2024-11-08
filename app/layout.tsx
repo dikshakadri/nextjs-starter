@@ -51,8 +51,8 @@ const workSans = localFont({
 
 
 export const metadata: Metadata = {
-  title: "YC Clone",
-  description: "Pitch, Vote and Grow",
+  title: "Next JS starter",
+  description: "Initial Setup of Nextjs 15, OAuth setup by Github Added Navbar with Signin/out, Added Fonts, Tailwind classes and Shadcn",
 };
 
 export default function RootLayout({
